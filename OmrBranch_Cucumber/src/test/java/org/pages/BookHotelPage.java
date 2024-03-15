@@ -8,7 +8,7 @@ import org.openqa.selenium.support.FindBy;
  * 
  */
 public class BookHotelPage extends BaaseClass {
-
+//hi
 	@FindBy(xpath = "//div[@class=\"row\"]/h2")
 	private WebElement bookHotelSuccessMsg;
 
