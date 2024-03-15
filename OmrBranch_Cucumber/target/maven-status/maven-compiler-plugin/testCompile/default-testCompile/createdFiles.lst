@@ -1,0 +1,12 @@
+org\base\BaaseClass.class
+org\reports\Report.class
+org\stepdefinition\TC1_Loginstep.class
+org\pages\LoginPage.class
+org\pages\ChangeBookingPage.class
+org\stepdefinition\TC3_SelectHotelstep.class
+org\pages\BookHotelPage.class
+org\pageObjectManager\PageObjectManager.class
+org\testrunner\RunnerClass.class
+org\pages\ExploreHotelPage.class
+org\stepdefinition\TC2_ExploreHotelstep.class
+org\pages\SelectHotelPage.class
